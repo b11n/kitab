@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0",
+    "xmljson": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
